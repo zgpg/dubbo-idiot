@@ -1,12 +1,17 @@
 {
-    "name": "zgpg/dubbo-idito",
-    "repositories": [
+    "name": "zgpg/dubbo-idiot",
+    "description": "the new thinkphp framework",
+    "authors": [
         {
-            "type": "vcs",
-            "url": "https://github.com/zgpg/dubbo-idiot"
+            "name": "dubbo-idiot",
+            "email": "zgpg_zhangpeng@163.com"
         }
     ],
-    "require": {
-        "zgpg/dubbo-idito": "master"
+    "license": "Apache-2.0",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "idiot\\": "idiot/"
+        }
     }
 }
