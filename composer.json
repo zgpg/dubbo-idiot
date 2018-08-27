@@ -1,0 +1,12 @@
+{
+    "name": "zgpg/dubbo-idito",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/zgpg/dubbo-idiot"
+        }
+    ],
+    "require": {
+        "zgpg/dubbo-idito": "master"
+    }
+}
